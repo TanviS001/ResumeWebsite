@@ -1,5 +1,5 @@
 # Resume Website Project
-A multipage website that serves as a resume.
+A multipage website that serves as a resume.<br>
 Consists of Summary, educaton, experience, skills, awards, certifications, hobbies, link to art portfolio, contact details, etc
 The website also takes viewer to the art portfolio page that showcases my paintings
 
