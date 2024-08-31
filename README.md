@@ -10,4 +10,6 @@ The website also takes viewer to the art portfolio page that showcases my painti
 ![ss5](https://github.com/user-attachments/assets/cbd0ed79-dc33-45e1-8bec-3aa2ab9a680d)
 ![ss6](https://github.com/user-attachments/assets/c8b77379-4ea7-42e7-9bd1-1d98a617f225)
 ![ss7](https://github.com/user-attachments/assets/ee456d44-1262-4db0-a3f3-6136814253b5)
+<br>
+Art Portfolio (on different web-page)
 ![ss8](https://github.com/user-attachments/assets/fda1d512-518a-4a6f-b89a-a65ab30fb1a9)
